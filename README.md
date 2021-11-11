@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
     .lineSep {
         background-color: rgb(145, 145, 90);
