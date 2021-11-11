@@ -1,6 +1,6 @@
 # Adriano Reis
 
-### Olá me chamo Adriano Reis, Sou estudante de análise e desenvolvimento de sistemas e entusiasta em Front-End, tendo conhecimento nas linguagem:
+### Olá me chamo Adriano Reis, Sou estudante de análise e desenvolvimento de sistemas e entusiasta em Front-End e modelagem 3D, tendo conhecimento nas linguagem:
 <br>
 
 
