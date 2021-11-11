@@ -14,10 +14,6 @@
 
 <br>
 
----
-
-<br>
-
 # Meus status:
 
 [![adfalomnStats](https://github-readme-stats.vercel.app/api?username=adfalomnlaeninfus&theme=ayu-mirage)](https://github.com/AdfalomnLaeninfus)
