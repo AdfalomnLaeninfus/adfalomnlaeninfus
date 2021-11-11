@@ -1,7 +1,16 @@
 # Adriano Reis
 
-### Olá me chamo Adriano Reis, sou entusiasta em desenvolvimento web, linguagem Python e C.<br>
-### Sou estudante de análise e desenvolvimento de sistemas.
+### Olá me chamo Adriano Reis, Sou estudante de análise e desenvolvimento de sistemas e entusiasta em Front-End, tendo conhecimento nas linguagem:
+<br>
+
+
+
+1. HTML5
+2. CSS3
+3. JavaScript
+4. PHP
+5. Python
+6. C
 
 <br>
 
