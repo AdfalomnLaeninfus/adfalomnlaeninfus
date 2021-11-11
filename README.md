@@ -7,7 +7,7 @@
 <br>
 
 <div style="width: 100%; height: auto; position: relative;">
-    <div class="lineSep" style="width: 100%; height: 1rem; background-color: rgba(145, 145, 90, 1); position: absolute;">
+    <div class="lineSep" style="width: 100%; height: 1rem; content: ""; background-color: rgba(145, 145, 90, 1); position: absolute;">
     </div>
 </div>
 
@@ -17,6 +17,6 @@
 [![adfalomnStats](https://github-readme-stats.vercel.app/api/top-langs?username=adfalomnlaeninfus&theme=ayu-mirage)](https://github.com/AdfalomnLaeninfus)
 
 <div style="width: 100%; height: auto; position: relative;">
-    <div class="lineSep" style="width: 100%; height: 1rem; background-color: rgba(145, 145, 90, 1); position: absolute;">
+    <div class="lineSep" style="width: 100%; height: 1rem; content: ""; background-color: rgba(145, 145, 90, 1); position: absolute;">
     </div>
 </div>
