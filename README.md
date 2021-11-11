@@ -1,1 +1,2 @@
-<img src=""></img>
+[![adfalomnStats](https://github-readme-stats.vercel.app/api?username=adfalomnlaeninfus&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![adfalomnStats](https://github-readme-stats.vercel.app/api/top-langs?username=adfalomnlaeninfus&theme=ayu-mirage)](https://github.com/anuraghazra/github-reame-stats)
